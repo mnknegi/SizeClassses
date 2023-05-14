@@ -51,3 +51,6 @@ Now the subtitle view needs to be in between title and body. For this we need to
 - Keep the checkbox `enabled` for `default` and `disable` the checkbox for wR hR. This will remove this constraints with device size classes wR hR.
 - Now select iPad from device configuration bar and provide constraints to subtitle view top and bottom from title and body text.
 - Repeat the same thing as above mention with a slight difference. This time uncheck default and check the wR hR as we want this constraints for the iPad.
+
+iPhone 14 Pro
+![iPhone 14 Pro]()
